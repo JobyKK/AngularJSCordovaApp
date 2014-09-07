@@ -1,0 +1,24 @@
+
+.navig {
+	text-align:center;
+	padding:20px 20px 20px 20px;}
+.top img {
+	margin: 5px 20px 0px 20px;
+}
+
+img:hover {
+	cursor:pointer;
+}
+
+.container {
+	margin-top:5%;
+	text-align:center;
+}
+.container input {
+	border:2px;
+	border-radius:5px;
+	margin-top:10px;
+	width:160px;
+	height:30px;
+	text-align:center;
+}
